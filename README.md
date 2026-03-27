@@ -1,7 +1,5 @@
 # technical-writing-portfolio
 
-# Technical Writing Portfolio
-
 ## About Me
 Technical Writer skilled in API documentation and user guides.
 
