@@ -1,7 +1,8 @@
 # Visual Studio Code Installation and Setup Guide
 
 ## Overview
-This guide explains how to install and set up Visual Studio Code (VS Code), a lightweight and powerful code editor.
+
+This guide provides step-by-step instructions to download, install, and set up Visual Studio Code (VS Code) for development.
 
 ---
 
@@ -12,16 +13,39 @@ This guide explains how to install and set up Visual Studio Code (VS Code), a li
 - Disk Space: At least 200 MB  
 
 ---
+## Use Case
+
+VS Code can be used for:
+- Web development  
+- API development  
+- Technical documentation (Markdown)
+
+---
+
+## Downloading VS Code
+
+1. Go to the official website: https://code.visualstudio.com  
+2. Click on **Download for Windows** (or choose your OS)  
+3. Wait for the download to complete  
+
+---
 
 ## Installation Steps
 
-1. Visit the official website: https://code.visualstudio.com  
-2. Click on **Download for Windows** (or your OS)  
-3. Run the downloaded installer  
-4. Accept the license agreement  
-5. Choose installation location  
-6. Click **Install**  
-7. Launch VS Code after installation  
+1. Open the downloaded installer  
+2. Accept the license agreement  
+3. Select installation location  
+4. Enable additional tasks (optional):
+   - Add to PATH  
+   - Create desktop icon  
+5. Click **Install**  
+6. Once completed, click **Finish**  
+
+---
+## Launching VS Code
+
+- Open from Start Menu  
+- Or use desktop shortcut
 
 ---
 
@@ -48,13 +72,16 @@ After launching VS Code:
 
 ### Creating a File
 1. Click **New File**  
-2. Name the file (example: `app.js`)  
+2. Name the file (example: `app.js`)
+3. Start editing
 
 ---
 
-### Running Code
-- Install required language extension  
-- Use terminal inside VS Code  
+### Running Code & Using Terminal
+
+1. Install the required language extension (e.g., Python, Node.js)  
+2. Click **Terminal → New Terminal**  
+3. Use the terminal to run commands (e.g., `python app.py`, `node app.js`)    
 
 ---
 
@@ -66,7 +93,11 @@ After launching VS Code:
 
 ### Issue: Extensions not working
 - Check internet connection  
-- Restart VS Code  
+- Restart VS Code
+
+### Issue: Slow performance
+- Disable unused extensions  
+- Restart application 
 
 ---
 
@@ -80,4 +111,4 @@ After launching VS Code:
 
 ## Conclusion
 
-Visual Studio Code provides a flexible environment for coding and development, making it suitable for beginners and professionals.
+> Visual Studio Code provides a flexible environment for coding and development, making it suitable for beginners and professionals.
