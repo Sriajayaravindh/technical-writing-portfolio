@@ -1,13 +1,15 @@
-# technical-writing-portfolio
+# Technical Writing Portfolio
 
 ## About Me
-Technical Writer skilled in API documentation and user guides.
+I'm Sri Ajay Aravindh, A Technical Writer skilled in API documentation, Troubleshooting articles, Knowledge Base, FAQ articles, Installation guides and user guides.
 
 ## Skills
 - API Documentation (Postman)
 - HTML, CSS
 - Markdown
 - GitHub
+
+---
 
 ## Overview
 
@@ -17,71 +19,83 @@ This repository contains structured technical documentation samples created for 
 
 ## Featured Documents
 
+### API documentation
+
+| Document | Markdown |
+|----------|-----------|
+| API Doc  | [View](api-docs/api.md) |
+
 ### User Guides
-| Document | Markdown | PDF |
-|----------|----------|-----|
-| VS Code User Guide | [View](user-guides/visual-studio-coding-user-guide.md) | [Download](user-guides/visual-studio-coding-user-guide.pdf) |
-| Postman User Guide | [View](user-guides/postman-user-guide.md) | [Download](user-guides/postman-user-guide.pdf) |
+
+| Document | Markdown |
+|----------|----------|
+| VS Code User Guide | [View](user-guide/vs-code-user-guide.md) |
+| Postman User Guide | [View](user-guide/postman-user-guide.md) |
+
+---
 
 ### Installation Guides
-| Document | Markdown | PDF |
-|----------|----------|-----|
-| VS Code Installation Guide | [View](installation-guides/vs-code-installation-guides.md) | [Download](installation-guides/vs-code-installation-guides.pdf) |
-| Postman Installation Guide | [View](installation-guides/postman-installation-guide.md) | [Download](installation-guides/postman-installation-guide.pdf) |
+
+| Document | Markdown |
+|----------|----------|
+| VS Code Installation Guide | [View](installation-guide/vs-code-demo-install.md) |
+| Postman Installation Guide | [View](installation-guide/postman-install.md) |
+
+---
 
 ### Troubleshooting Guides
-| Document | Markdown | PDF |
-|----------|----------|-----|
-| WhatsApp Desktop Troubleshooting Guide | [View](troubleshooting-guides/whatsapp-desktop-troubleshooting-guide.md) | [Download](troubleshooting-guides/whatsapp-desktop-troubleshooting-guide.pdf) |
-| Zoom Desktop Troubleshooting Guide | [View](troubleshooting-guides/zoom-desktop-troubleshooting-guide.md) | [Download](troubleshooting-guides/zoom-desktop-troubleshooting-guide.pdf) |
+
+| Document | Markdown |
+|----------|----------|
+| WhatsApp Desktop Troubleshooting Guide | [View](trouble-shoot-guide/whatsapp-desktop-troubleshoot.md) |
+| Zoom Desktop Troubleshooting Guide | [View](trouble-shoot-guide/zoom-desktop-troubleshoot.md) |
+
+---
 
 ### FAQs
-| Document | Markdown | PDF |
-|----------|----------|-----|
-| Gmail Web FAQ | [View](faqs/gmail-web-faq.md) | [Download](faqs/gmail-web-faq.pdf) |
-| Google Chrome FAQ | [View](faqs/google-chrome-faq.md) | [Download](faqs/google-chrome-faq.pdf) |
+
+| Document | Markdown |
+|----------|----------|
+| Gmail Web FAQ | [View](faq-article/gmail-web-faq.md) |
+| Google Chrome FAQ | [View](faq-article/google-chrome-faq.md) |
 
 ---
 
 ## Documentation Categories
 
 ### User Guides
-
-Task-oriented documentation designed to help end users navigate and use application features effectively. These guides follow a structured, step-by-step approach to improve usability and reduce user friction.
+Task-oriented documentation that helps users understand and use application features effectively through step-by-step instructions.
 
 ### Installation Guides
-
-Process-driven documentation outlining prerequisites, installation procedures, configuration steps, and post-installation validation.
+Process-based documentation covering prerequisites, installation steps, and setup validation.
 
 ### Troubleshooting Guides
-
-Structured issue-resolution documentation identifying common problems, root causes, and clear corrective actions to support efficient problem-solving.
+Issue-resolution documentation with structured problem identification, causes, and solutions.
 
 ### FAQs
-
-Concise question-and-answer documentation addressing frequently asked user concerns and common misconceptions.
+Concise question-and-answer documentation addressing common user concerns.
 
 ---
 
 ## Documentation Approach
 
-The documentation in this portfolio follows:
+This portfolio follows:
 
-- Clear heading hierarchy
-- Consistent formatting standards
-- Task-based structure
-- User-focused language
-- Logical information flow
-- Minimal ambiguity and redundancy
+- Clear heading hierarchy  
+- Consistent formatting standards  
+- Task-based structure  
+- User-focused language  
+- Logical information flow  
+- Minimal ambiguity and redundancy  
 
-Each document is written with attention to usability, readability, and structured organization.
+Each document is designed for usability, clarity, and structured understanding.
 
 ---
 
 ## Tools Used
 
 - Markdown
-- VS Code
+- Visual Studio Code
 - GitHub
 - Postman
 
@@ -89,19 +103,17 @@ Each document is written with attention to usability, readability, and structure
 
 ## Intended Audience
 
-These documentation samples are written for:
-
-- End users
-- Beginner to intermediate software users
-- Support and IT teams requiring structured 
-  reference documentation
+- End users  
+- Beginner to intermediate software users  
+- Support and IT teams  
 
 ---
 
 ## License
 
-This work is licensed under CC BY-NC 4.0. All documentation samples are for demonstration purposes only.
+This work is licensed under CC BY-NC 4.0.  
+All documentation samples are for demonstration purposes only.
 
 ---
 
-*Document Version: 1.0 | Last Reviewed: April 5, 2026*
+*Document Version: 1.1 | Last Reviewed: April 10, 2026*
